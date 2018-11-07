@@ -4,7 +4,7 @@
 
 int main(){
 
-
+  printf("TESTE DUZIN\n");
 
 
   return 0;
